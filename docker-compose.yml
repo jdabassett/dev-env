@@ -4,8 +4,8 @@ services:
     build:
       context: .
       args:
-        gitusername: "Your Name"
-        gitemail: "your@email.com"
+        gitusername: "jdabassett"
+        gitemail: "jacobbassett@gmail.com"
     ports:
       - "3000:3000"
       - "4000:4000"
